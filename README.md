@@ -11,4 +11,4 @@ Download pygame from here : https://pypi.org/project/Pygame/#files
 
 Run the python script to start the game
 
-Use LEFT and RIGHT arrow keys to play.(Be a bit patient with the game in the beginning, it starts slow...)
+Use LEFT and RIGHT arrow keys to play.
